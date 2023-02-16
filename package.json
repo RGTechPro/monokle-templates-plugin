@@ -1,11 +1,13 @@
 {
-    "name": "Templates plugin",
+    "name": "Templates Plugin",
     "description": "Custom templates plugins",
     "version":"1.0.0",
     "author": "Rishabh Gupta",
     "repository": "https://github.com/RGTechPro/monokle-templates-plugin",
     "monoklePlugin":{
-"modules":[
+        "id": "com.github.monokle.RGTechPro.plugin.templates",
+        "helpUrl": "https://github.com/RGTechPro/monokle-templates-plugin",
+ "modules":[
     {
         "type":"template",
         "path":"basic-pod-template"
