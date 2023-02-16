@@ -1,8 +1,8 @@
 {
     "name": "Templates plugin",
-    "description": "Custom Template Plugins",
+    "description": "Custom templates plugins",
     "version":"1.0.0",
-    "author": "Rishabh",
+    "author": "Rishabh Gupta",
     "repository": "https://github.com/RGTechPro/monokle-templates-plugin",
     "monoklePlugin":{
 "modules":[
